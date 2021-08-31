@@ -1,15 +1,20 @@
-defp pedir datos():
+"""
+autor: kevin garcia gonzalez
+fecha:31/ago/21
+
+
+
+"""
+
+
+
+
+
+def saludar():
     
-    print("cual es tu nombre")
+    print("hola soy kevin")
+  
     
-    nombre=input()
-    
-    print("que edad tienes")
-    
-    edad=input()
-    
-    print("estudias o trabajas")
-    
-    estudias=input()
-    
-    trabajas=input()
+def main():
+    saludar()
+main()
